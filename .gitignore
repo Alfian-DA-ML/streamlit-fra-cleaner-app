@@ -1,0 +1,11 @@
+# Virtual Environment
+myenv/
+venv/
+.venv/
+
+# File output dan data
+*.xlsx
+*.csv
+
+# Cache Python
+__pycache__/
